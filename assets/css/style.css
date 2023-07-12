@@ -3,6 +3,17 @@ body {
   font-size: 16px;
 }
 
+header {
+  text-align: center;
+  border-bottom: 10px solid black;
+}
+
+#popup {
+  display: none;
+  text-align: center;
+  padding-bottom: 5px;
+}
+
 textarea {
   background: transparent;
   border: none;
